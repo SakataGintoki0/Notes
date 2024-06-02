@@ -12,7 +12,7 @@ Example _**Bold as well as italic**_
 ### Headers
 Headers are of 6 sizes, named from one to six of course. You can begin a sentence with # to mark it as a header. Total count of # will decide the type of the header.
 Example next line onwards,
-# One begining from single #
+# One begining from single # #
 ## Two require 2 #s
 .
 .
