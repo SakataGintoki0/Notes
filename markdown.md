@@ -33,9 +33,9 @@ Example next line onwards,
 
 #### Inline links
 
-Contains two components, square brackets [] and parentheses ().
+Contains two components, square brackets ["name of the link"] and parentheses ("path of the link").
 
-Example [Click on this link!](vim.md)
+Example [Click to view link!](vim.md)
 
 #### Reference links
 
@@ -44,7 +44,8 @@ Reference to a link is given at the bottom of the markdown. If you want to chang
 #### PS:- Incomplete due to some reasons.
 
 ### Images
-Example [Click to view image](images/dogeCoin.PNG)
+Inserting images is similar to inserting the Inline links.
+Example [Click to view image!](images/dogeCoin.PNG)
 
 ### Blockquotes
 To create a blockquote start you block with > sign.
