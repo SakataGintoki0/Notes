@@ -31,7 +31,7 @@ Example next line onwards,
 #### Inline links
 
 Contains two components, square brackets [] and parentheses ().
-Example [Click on this link!](www.yogeshsewada.netlify.app)
+Example [Click on this link!](vim.md)
 
 #### Reference links
 
