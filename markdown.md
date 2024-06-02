@@ -61,20 +61,20 @@ Example
 
 ### Lists
 * Unordered List  
- To create an unordered list, start the line with *.
+  To create an unordered list, start the line with *.
 
- Example Hah
- * Deadpool  
- * Wolverine  
- * LFG  
+  Example Hah
+  * Deadpool  
+  * Wolverine  
+  * LFG  
 
 * Ordered list  
- Preface with numbers followed by a fullstop instead of asterisks.
+  Preface with numbers followed by a fullstop instead of asterisks.
 
- Example Hah
- 1. Deadpool
- 2. Wolverine
- 3. LFG
+  Example Hah
+  1. Deadpool
+  2. Wolverine
+  3. LFG
 
 > Note: You can also use nested lists.
 
