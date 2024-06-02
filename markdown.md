@@ -44,6 +44,7 @@ Reference to a link is given at the bottom of the markdown. If you want to chang
 #### PS:- Incomplete due to some reasons.
 
 ### Images
+#### PS:- incomplete due to some reasons.
 
 ### Blockquotes
 To create a blockquote start you block with > sign.
@@ -57,3 +58,26 @@ Example
 >"Who's there?", he whishpered.
 >
 >To be continued...
+
+### Lists
+* Unordered List
+To create an unordered list, start the line with *.
+
+Example Hah
+* Deadpool
+* Wolverine
+* LFG
+
+* Ordered list
+Preface with numbers followed by a fullstop instead of asterisks.
+
+Example Hah
+1. Deadpool
+2. Wolverine
+3. LFG
+
+> Note: You can also use nested lists.
+
+### Paragraphs
+
+
