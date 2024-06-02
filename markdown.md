@@ -44,7 +44,8 @@ Reference to a link is given at the bottom of the markdown. If you want to chang
 #### PS:- Incomplete due to some reasons.
 
 ### Images
-#### PS:- incomplete due to some reasons.
+Example   
+[Click to view image](images/dogeCoin.png)
 
 ### Blockquotes
 To create a blockquote start you block with > sign.
@@ -76,16 +77,16 @@ Example
   2. Wolverine
   3. LFG
 
-> Note: You can also use nested lists.
+> Note: You can also use nested lists. For indentation, leave 2 spaces before the line.
 
 ### Paragraphs
 1. Soft breaks
- To change the paragraph, leave two spaces at the end of the line.  
- Example This is first line.  
- Example This is second line.
+  To change the paragraph, leave two spaces at the end of the line.  
+  Example This is first line.  
+  Example This is second line.
 
 2. Hard breaks  
- TO insert a blank line, insert a blank line.  
- Example This line is above blank line.
+  TO insert a blank line, insert a blank line.  
+  Example This line is above blank line.
 
- Example This line is below blank line.
+  Example This line is below blank line.
