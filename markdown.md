@@ -1,11 +1,13 @@
 ### Italic
 
 Add _ arround the text you want to italisize.
+
 Example This is \_italic_.
 
 ### Bold
 
 Similarly to give your text a bold effect use ** arround the text.
+
 Example This is **bold\*\*.
 
 ### Bold and Italic combo
@@ -15,6 +17,7 @@ Example _**Bold as well as italic**_
 ### Headers
 
 Headers are of 6 sizes, named from one to six of course. You can begin a sentence with # to mark it as a header. Total count of # will decide the type of the header.
+
 Example next line onwards,
 
 # One begining from single # #
@@ -31,6 +34,7 @@ Example next line onwards,
 #### Inline links
 
 Contains two components, square brackets [] and parentheses ().
+
 Example [Click on this link!](vim.md)
 
 #### Reference links
@@ -43,5 +47,13 @@ Reference to a link is given at the bottom of the markdown. If you want to chang
 
 ### Blockquotes
 To create a blockquote start you block with > sign.
+
 Example
 > This is a blockquote.
+
+You can insert > in multiple lines to continue the blockquote.
+
+Example
+>"Who's there?", he whishpered.
+>
+>To be continued...
