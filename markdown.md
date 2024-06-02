@@ -60,7 +60,7 @@ Example
 >To be continued...
 
 ### Lists
-* Unordered List
+* Unordered List  
 To create an unordered list, start the line with *.
 
 Example Hah
@@ -79,5 +79,13 @@ Example Hah
 > Note: You can also use nested lists.
 
 ### Paragraphs
+1. Soft breaks
+To change the paragraph, leave two spaces at the end of the line.  
+Example This is first line.  
+Example This is second line.
 
+2. Hard breaks  
+TO insert a blank line, insert a blank line.  
+Example This line is above blank line.
 
+Example This line is below blank line.
