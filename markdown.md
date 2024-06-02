@@ -68,7 +68,7 @@ Example Hah
 * Wolverine
 * LFG
 
-* Ordered list
+* Ordered list  
 Preface with numbers followed by a fullstop instead of asterisks.
 
 Example Hah
