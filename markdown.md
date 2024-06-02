@@ -61,31 +61,31 @@ Example
 
 ### Lists
 * Unordered List  
-To create an unordered list, start the line with *.
+ To create an unordered list, start the line with *.
 
-Example Hah
-* Deadpool  
-* Wolverine  
-* LFG  
+ Example Hah
+ * Deadpool  
+ * Wolverine  
+ * LFG  
 
 * Ordered list  
-Preface with numbers followed by a fullstop instead of asterisks.
+ Preface with numbers followed by a fullstop instead of asterisks.
 
-Example Hah
-1. Deadpool
-2. Wolverine
-3. LFG
+ Example Hah
+ 1. Deadpool
+ 2. Wolverine
+ 3. LFG
 
 > Note: You can also use nested lists.
 
 ### Paragraphs
 1. Soft breaks
-To change the paragraph, leave two spaces at the end of the line.  
-Example This is first line.  
-Example This is second line.
+ To change the paragraph, leave two spaces at the end of the line.  
+ Example This is first line.  
+ Example This is second line.
 
 2. Hard breaks  
-TO insert a blank line, insert a blank line.  
-Example This line is above blank line.
+ TO insert a blank line, insert a blank line.  
+ Example This line is above blank line.
 
-Example This line is below blank line.
+ Example This line is below blank line.
