@@ -21,11 +21,12 @@ Example next line onwards,
 ### Links
 #### Inline links 
     Contains two components, square brackets ][ and parentheses )(.
-    Example [Click on this link](yogeshsewada.netlify.app)
+    Example [Click on this link!](www.yogeshsewada.netlify.app)
 
 #### Reference links
     Reference to a link is given at the bottom of the markdown. If you want to change the link that has appeared multiple times then you can change from a single place.
 
 #### PS:- Incomplete due to some reasons.
 
+### Images
 

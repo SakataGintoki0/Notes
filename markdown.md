@@ -13,15 +13,15 @@ Example _**Bold as well as italic**_
 Headers are of 6 sizes, named from one to six of course. You can begin a sentence with # to mark it as a header. Total count of # will decide the type of the header.
 Example next line onwards,
 # One begining from single #
-## Two require 2 #s
+## Two begining from 2 #s
 .
 .
-###### Six need 6 #s
+###### Six begining from 6 #s
 
 ### Links
 #### Inline links 
     Contains two components, square brackets ][ and parentheses )(.
-    Example [Click on this link!](yogeshsewada.netlify.app)
+    Example [Click on this link!](www.yogeshsewada.netlify.app)
 
 #### Reference links
     Reference to a link is given at the bottom of the markdown. If you want to change the link that has appeared multiple times then you can change from a single place.
