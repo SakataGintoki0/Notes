@@ -30,13 +30,18 @@ Example next line onwards,
 
 #### Inline links
 
-    Contains two components, square brackets [] and parentheses ().
-    Example [Click on this link!](www.yogeshsewada.netlify.app)
+Contains two components, square brackets [] and parentheses ().
+Example [Click on this link!](www.yogeshsewada.netlify.app)
 
 #### Reference links
 
-    Reference to a link is given at the bottom of the markdown. If you want to change the link that has appeared multiple times then you can change from a single place.
+Reference to a link is given at the bottom of the markdown. If you want to change the link that has appeared multiple times then you can change from a single place.
 
 #### PS:- Incomplete due to some reasons.
 
 ### Images
+
+### Blockquotes
+To create a blockquote start you block with > sign.
+Example
+> This is a blockquote.
