@@ -64,9 +64,9 @@ Example
 To create an unordered list, start the line with *.
 
 Example Hah
-* Deadpool
-* Wolverine
-* LFG
+* Deadpool  
+* Wolverine  
+* LFG  
 
 * Ordered list  
 Preface with numbers followed by a fullstop instead of asterisks.
