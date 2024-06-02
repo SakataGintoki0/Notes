@@ -44,8 +44,7 @@ Reference to a link is given at the bottom of the markdown. If you want to chang
 #### PS:- Incomplete due to some reasons.
 
 ### Images
-Example   
-[Click to view image](images/dogeCoin.png)
+Example [Click to view image](images/dogeCoin.PNG)
 
 ### Blockquotes
 To create a blockquote start you block with > sign.
