@@ -82,4 +82,35 @@ ctrl-o to go back to where you came from
 :s/old/new/g to substitute replace old with new, g is global flag  
 :s/old/new only changes first occurrence  
 :s/old/new/gc to change all the occurrence with a prompt  
-:#,#
+:#,#s/old/new/g to line number # to # change all occurence
+
+### 5.1 Executing an external command
+:!cmd to execute shell commands  
+
+### 5.2 More commands
+:w FILENAME to save the file by name FILENAME  
+:!dir OR :!ls to list directories  
+:!del FILENAME OR :!rm FILENAME to delete file by name FILENAME  
+
+### 5.3 
+> Note: work in progress
+
+### 6.1 Open command
+o to open a line below cursor  
+O to open a line above cursor
+
+### 6.2 Append command
+a to append after the cursor
+
+### 6.3 Another way to replace
+Rxxx to replace next 3 letters with xxx  
+
+### 6.4 Copy and paste text
+v to use visual mode and select text  
+y to copy selected text  
+p to put/paste the text stored in the register
+yw to yank one word
+yy to yank a whole line
+
+### 6.5 Set options
+> Note: Work in progress  
